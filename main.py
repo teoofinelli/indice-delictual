@@ -47,9 +47,11 @@ def run():
     # Renombrar columnas y filtrar nulos
     df_mapa = filtro.rename(columns={"latitud": "latitude", "longitud": "longitude"})
     df_mapa = df_mapa.dropna(subset=["latitude", "longitude"])
-
+    
     # Mostrar mapa
-    st.map(df_mapa[["latitude", "longitude"]])
+    st.map(df_mapa[["latitude", "longitude"]], size=20, color="#0044ff")
+
+    
 
 
 if __name__ == "__main__":
