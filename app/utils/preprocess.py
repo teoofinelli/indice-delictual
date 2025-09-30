@@ -16,7 +16,7 @@ def normalize_text(s):
     if pd.isna(s):
         return None
     s = str(s).strip()
-    if s in ["", "s/d"]:
+    if s in ["", "s/d", "SIN DATOS", "-"]:
         return None
     return s.upper()
 
@@ -42,6 +42,24 @@ def main():
                 df["fecha_hech"].fillna("") + " " + df["hora_hecho"].fillna(""),
                 errors="coerce"
             )
+
+    # Normalizar el distrito (algunos tienen "DISTRITO X")
+    if "distrito" in df.columns:
+        # cambiar "DISTRITO (numeros romanos)" por valor numérico
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO XIII", "DISTRITO 13", case=False, regex=True)
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO XII", "DISTRITO 12", case=False, regex=True)
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO XI", "DISTRITO 11", case=False, regex=True)
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO X", "DISTRITO 10", case=False, regex=True)
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO IX", "DISTRITO 9", case=False, regex=True)
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO VIII", "DISTRITO 8", case=False, regex=True)
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO VII", "DISTRITO 7", case=False, regex=True)
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO VI", "DISTRITO 6", case=False, regex=True)
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO V", "DISTRITO 5", case=False, regex=True)
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO IV", "DISTRITO 4", case=False, regex=True)
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO III", "DISTRITO 3", case=False, regex=True)
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO II", "DISTRITO 2", case=False, regex=True)
+        df["distrito"] = df["distrito"].str.replace(r"DISTRITO I", "DISTRITO 1", case=False, regex=True)
+        
 
     # Extraer componentes temporales
     df["año"] = df["fecha_hora"].dt.year
