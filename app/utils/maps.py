@@ -4,6 +4,9 @@ import folium
 from streamlit_folium import st_folium
 import geopandas as gpd
 from pyproj import Transformer
+from folium.plugins import HeatMap, HeatMapWithTime, MarkerCluster
+import pandas as pd
+
 
 def page_mapa(df):
     st.title("Exploración de Mapas")
@@ -13,79 +16,162 @@ def page_mapa(df):
         ["Folium interactivo", "Plotly XY", "GeoPandas estático"]
     )
 
+    # Normalizar columnas
+    if "latitud" in df.columns and "longitud" in df.columns:
+        df = df.rename(columns={"latitud": "lat", "longitud": "lon"})
+    if "fecha" in df.columns:
+        df["fecha"] = pd.to_datetime(df["fecha"], errors="coerce")
+
+    BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+
+    # ----------------------
+    # FOLIUM INTERACTIVO
+    # ----------------------
     if opcion == "Folium interactivo":
+        subopcion = st.selectbox(
+            "Modo de visualización",
+            ["Puntos", "Clúster", "Mapa de calor", "Mapa de calor temporal"]
+        )
+
         m = folium.Map(location=[-31.4, -64.2], zoom_start=12)
 
-        # ---------------------
-        # 1️⃣ Delitos como puntos
-        # ---------------------
-        muestra = df[["latitud", "longitud"]].dropna()
-        if len(muestra) > 1000:
-            muestra = muestra.sample(1000, random_state=42)
-        for _, row in muestra.iterrows():
-            folium.CircleMarker(
-                location=[row["latitud"], row["longitud"]],
-                radius=2,
-                color="red",
-                fill=True,
-                fill_opacity=0.6
-            ).add_to(m)
+        muestra = df[["lat", "lon"]].dropna()
+        if len(muestra) > 3000:
+            muestra = muestra.sample(3000, random_state=42)
 
-        # ---------------------
-        # 2️⃣ Distritos con etiquetas
-        # ---------------------
-        BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+        if subopcion == "Puntos":
+            for _, row in muestra.iterrows():
+                folium.CircleMarker(
+                    location=[row["lat"], row["lon"]],
+                    radius=2,
+                    color="red",
+                    fill=True,
+                    fill_opacity=0.6
+                ).add_to(m)
+
+        elif subopcion == "Clúster":
+            cluster = MarkerCluster().add_to(m)
+            for _, row in muestra.iterrows():
+                folium.Marker(
+                    location=[row["lat"], row["lon"]],
+                    popup=f"{row.get('delito', '')} - {row.get('fecha', '')}"
+                ).add_to(cluster)
+
+        elif subopcion == "Mapa de calor":
+            heat_data = muestra[["lat", "lon"]].values.tolist()
+            HeatMap(heat_data, radius=10, blur=8).add_to(m)
+
+        elif subopcion == "Mapa de calor temporal":
+            if "fecha" in df.columns:
+                df["dia"] = df["fecha"].dt.date
+                heat_data = [
+                    datos[["lat", "lon"]].dropna().values.tolist()
+                    for _, datos in df.groupby("dia")
+                ]
+                HeatMapWithTime(
+                    heat_data,
+                    radius=10,
+                    auto_play=True,
+                    max_opacity=0.8
+                ).add_to(m)
+            else:
+                st.warning("No hay columna 'fecha' disponible para mapa temporal.")
+
+        # Cargar distritos (GeoJSON)
         shp_path = os.path.join(BASE_DIR, "../data", "distritos_policiales.geojson")
-        
-
-        gdf = gpd.read_file(shp_path)  # geojson
-        folium.GeoJson(
-            gdf,
-            name="Distritos",
-            style_function=lambda feature: {
-                "fillColor": "blue",
-                "color": "black",
-                "weight": 1,
-                "fillOpacity": 0.2
-            },
-            # etiquetas y popups
-            tooltip=folium.features.GeoJsonTooltip(fields=["nombre"], aliases=["Distrito:"]),
-            popup=folium.GeoJsonPopup(fields=["nombre", "sup_km2", "pob_est_20"],
-                                    aliases=["Distrito", "Superficie km²", "Población estimada 2020"])
-        ).add_to(m)
-
-
-        geojson_path = os.path.join(BASE_DIR, "../data", "distritos_policiales_monbre.geojson")
-        gdf = gpd.read_file(geojson_path)
-
-        # Transformar las coordenadas a WGS84
-        transformer = Transformer.from_crs("EPSG:22174", "EPSG:4326", always_xy=True)
-        gdf["lon"], gdf["lat"] = transformer.transform(gdf.geometry.x.values, gdf.geometry.y.values)
-
-        # Agregar los puntos de distrito al mapa
-        for _, row in gdf.iterrows():
-            folium.Marker(
-                location=[row["lat"], row["lon"]],
-                icon=folium.DivIcon(
-                    html = f'<div style="font-size:10pt; font-weight:bold; color:blue; white-space:nowrap">{row["nombre"]}</div>'
+        if os.path.exists(shp_path):
+            gdf = gpd.read_file(shp_path)
+            folium.GeoJson(
+                gdf,
+                name="Distritos",
+                style_function=lambda feature: {
+                    "fillColor": "blue",
+                    "color": "black",
+                    "weight": 1,
+                    "fillOpacity": 0.2
+                },
+                tooltip=folium.features.GeoJsonTooltip(fields=["nombre"], aliases=["Distrito:"]),
+                popup=folium.GeoJsonPopup(
+                    fields=["nombre", "sup_km2", "pob_est_20"],
+                    aliases=["Distrito", "Superficie km²", "Población estimada 2020"]
                 )
             ).add_to(m)
 
-        # Mostrar capas
+        # Cargar etiquetas de distritos
+        geojson_path = os.path.join(BASE_DIR, "../data", "distritos_policiales_monbre.geojson")
+        if os.path.exists(geojson_path):
+            gdf_labels = gpd.read_file(geojson_path)
+            transformer = Transformer.from_crs("EPSG:22174", "EPSG:4326", always_xy=True)
+            gdf_labels["lon"], gdf_labels["lat"] = transformer.transform(
+                gdf_labels.geometry.x.values, gdf_labels.geometry.y.values
+            )
+            for _, row in gdf_labels.iterrows():
+                folium.Marker(
+                    location=[row["lat"], row["lon"]],
+                    icon=folium.DivIcon(
+                        html=f'<div style="font-size:10pt; font-weight:bold; color:blue; white-space:nowrap">{row["nombre"]}</div>'
+                    )
+                ).add_to(m)
+
         folium.LayerControl().add_to(m)
+        st_folium(m, use_container_width=True, height=600)
 
-        st_folium(m, use_container_width=True)
-
+    # ----------------------
+    # PLOTLY
+    # ----------------------
     elif opcion == "Plotly XY":
         import plotly.express as px
-        fig = px.scatter(df, x="X", y="Y", title="Delitos en coordenadas X/Y")
-        st.plotly_chart(fig, use_container_width=True)
+        subopcion = st.selectbox("Modo de visualización", ["Scatter", "Mapa de densidad"])
 
+        if subopcion == "Scatter":
+            fig = px.scatter_mapbox(
+                df,
+                lat="lat", lon="lon",
+                color="delito" if "delito" in df.columns else None,
+                hover_data=["fecha"] if "fecha" in df.columns else None,
+                zoom=11,
+                height=600
+            )
+            fig.update_layout(mapbox_style="carto-positron")
+            st.plotly_chart(fig, use_container_width=True)
+
+        elif subopcion == "Mapa de densidad":
+            fig = px.density_mapbox(
+                df,
+                lat="lat", lon="lon",
+                z=None,
+                radius=15,
+                hover_data=["fecha", "delito"] if "delito" in df.columns else None,
+                zoom=11,
+                height=600
+            )
+            fig.update_layout(mapbox_style="stamen-terrain")
+            st.plotly_chart(fig, use_container_width=True)
+
+    # ----------------------
+    # GEOPANDAS
+    # ----------------------
     elif opcion == "GeoPandas estático":
         import matplotlib.pyplot as plt
-        gdf_delitos = gpd.GeoDataFrame(
-            df, geometry=gpd.points_from_xy(df["X"], df["Y"]), crs="EPSG:22195"
-        )
-        fig, ax = plt.subplots(figsize=(8, 8))
-        gdf_delitos.plot(ax=ax, color="red", markersize=5)
-        st.pyplot(fig)
+        st.subheader("Delitos por distrito (estático)")
+
+        if "distrito" in df.columns:
+            conteo = df.groupby("distrito")["id"].count().reset_index()
+            shp_path = os.path.join(BASE_DIR, "../data", "distritos_policiales.geojson")
+            if os.path.exists(shp_path):
+                gdf = gpd.read_file(shp_path)
+                gdf = gdf.merge(conteo, on="distrito", how="left").fillna(0)
+
+                fig, ax = plt.subplots(figsize=(8, 8))
+                gdf.plot(
+                    column="id",
+                    cmap="OrRd",
+                    linewidth=0.8,
+                    edgecolor="0.8",
+                    legend=True,
+                    ax=ax
+                )
+                plt.title("Cantidad de hechos por distrito")
+                st.pyplot(fig)
+            else:
+                st.error("Archivo de distritos no encontrado.")
