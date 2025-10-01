@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "distritos_policiales_monbre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::22174" } },
+"features": [
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 7" }, "geometry": { "type": "Point", "coordinates": [ 4394788.691207361407578, 6530202.981292372569442 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 12 A" }, "geometry": { "type": "Point", "coordinates": [ 4376510.939665625803173, 6534150.283220171928406 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 11" }, "geometry": { "type": "Point", "coordinates": [ 4379916.53121530637145, 6533219.449970975518227 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 2" }, "geometry": { "type": "Point", "coordinates": [ 4379136.1474136011675, 6526244.242227860726416 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 3" }, "geometry": { "type": "Point", "coordinates": [ 4383790.684321680106223, 6521041.189035719260573 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 3 BIS" }, "geometry": { "type": "Point", "coordinates": [ 4379690.709916276857257, 6516735.962027262896299 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 4" }, "geometry": { "type": "Point", "coordinates": [ 4387977.111945631913841, 6517036.000089113600552 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 6" }, "geometry": { "type": "Point", "coordinates": [ 4394839.355773283168674, 6516394.446324576623738 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 10" }, "geometry": { "type": "Point", "coordinates": [ 4383473.235559727065265, 6531069.203531233593822 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 9" }, "geometry": { "type": "Point", "coordinates": [ 4386759.112563114613295, 6528231.212903762236238 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 1" }, "geometry": { "type": "Point", "coordinates": [ 4385834.785256145521998, 6524852.749298043549061 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 8" }, "geometry": { "type": "Point", "coordinates": [ 4387944.247138723731041, 6532709.957184315659106 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 5" }, "geometry": { "type": "Point", "coordinates": [ 4395396.220295455306768, 6522470.376702822744846 ] } },
+{ "type": "Feature", "properties": { "nombre": "DISTRITO 12 B" }, "geometry": { "type": "Point", "coordinates": [ 4370868.390973916277289, 6537053.176962988451123 ] } }
+]
+}

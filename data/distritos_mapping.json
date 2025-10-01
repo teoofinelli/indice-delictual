@@ -1,0 +1,41 @@
+{
+    "DISTRITO 1": {
+        "zona": "ZONA CENTRO"
+    },
+    "DISTRITO 2": {
+        "zona": "ZONA OESTE"
+    },
+    "DISTRITO 3": {
+        "zona": "ZONA OESTE"
+    },
+    "DISTRITO 4": {
+        "zona": "ZONA_SUR"
+    },
+    "DISTRITO 5": {
+        "zona": "ZONA_SUR"
+    },
+    "DISTRITO 6": {
+        "zona": "ZONA_SUR"
+    },
+    "DISTRITO 7": {
+        "zona": "ZONA ESTE"
+    },
+    "DISTRITO 8": {
+        "zona": "ZONA ESTE"
+    },
+    "DISTRITO 9": {
+        "zona": "ZONA ESTE"
+    },
+    "DISTRITO 10": {
+        "zona": "ZONA NORTE"
+    },
+    "DISTRITO 11": {
+        "zona": "ZONA NORTE"
+    },
+    "DISTRITO 12": {
+        "zona": "SIERRAS CHICAS"
+    },
+    "DISTRITO 13": {
+        "zona": "SIERRAS CHICAS"
+    }
+}

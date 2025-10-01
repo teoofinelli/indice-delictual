@@ -1,0 +1,5528 @@
+{
+  "CENTRO AMERICA": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "GENERALBUSTOS": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO IX",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA  GENERAL SAVIO (VE)": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "TALLERES OESTE": {
+    "comisaria": "COMISARIA 36",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "LAMADRID": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LOS NARANJOS": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "ALTO ALBERDI": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "CENTRO": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "GUEMES": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "BELLA VISTA": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "SUAREZ": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "SANTA ISABEL 2 SECCION": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA EL LIBERTADOR": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE LICEO 1 SECCION": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "SEP PRIMERA ETAPA": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "CRISOL SUR": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "PADRE CLARET": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "CERRO DE LAS ROSAS": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LOS BOULEVARES": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "SANTA ISABEL 1 SECCION": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "RESIDENCIAL SUD": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE FUTURA": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "SAN ROQUE": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PATRICIOS": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "GRAL. MOSCONI": {
+    "comisaria": "COMISARIA 36",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA CENTENARIO": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "RES. SAN CARLOS": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "AMPLIACION CERVECEROS": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "AMPLIACION  EMPALME": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO VII",
+    "zona": "ZONA ESTE"
+  },
+  "ACOSTA": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "VILLA MARTINEZ": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LAS VIOLETAS": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "MARECHAL": {
+    "comisaria": "COMISARIA 27",
+    "distrito": "DISTRITO 1",
+    "zona": "ZONA CENTRO"
+  },
+  "EMPALME": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "VILLA ALLENDE PARQUE": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA RIVERA INDARTE": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "EL TALAR": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SOLARES DE SAN ALFONSO": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LAS ROSAS": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LAS POLINESIAS": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PQUE. REPUBLICA": {
+    "comisaria": "COMISARIA 9",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "DUMESNIL": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ROSEDAL": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CALIFORNIA": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "ESTACION FLORES": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CIUDADELA": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE CAPITAL": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA ADELA": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "MATIENZO": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PUENTE BLANCO": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "MAFEKIN": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "ESTOEKLIN": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN SALVADOR": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LAS PALMAS AMPLIACIN": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "LAS PALMAS": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "RECIDENCIAL DEL CHATEAU": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "MATADERO": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA EL DIQUESITO": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "RESIDENCIAL LOS ROBLES": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "ZONA RURAL": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "CERRO NORTE (CALERA)": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "RENACIMIENTO": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "GUIÑAZU": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO VIII",
+    "zona": "ZONA ESTE"
+  },
+  "ITUZAINGO": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "CASEROS": {
+    "comisaria": "COMISARIA 11",
+    "distrito": "DISTRITO 1",
+    "zona": "ZONA CENTRO"
+  },
+  "ALBERDI": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "ARGUELLO": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "COMERCIAL": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA REVOL": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "PARQUE ALAMEDA": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "JARDIN": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO III",
+    "zona": "ZONA OESTE"
+  },
+  "INAUDI": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LOS JOSEFINOS": {
+    "comisaria": "COMISARIA 32",
+    "distrito": "DISTRITO V",
+    "zona": "ZONA SUR"
+  },
+  "VILLA INES": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "VILLA CORINA": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "PATRICIOS O": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "NICOLAS  AVELLANEDA": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO VI",
+    "zona": "ZONA SUR"
+  },
+  "CHACRA LA MERCED": {
+    "comisaria": "COMISARIA 36",
+    "distrito": "DISTRITO VII",
+    "zona": "ZONA ESTE"
+  },
+  "4 DE FEBRERO": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "SOLARES DE ARGUELLO": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "EL CERRITO": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "JOCKEY CLUB DE CORDOBA": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LAS MAGNOLIAS": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "IPV 360 ARGUELLO": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA 9 DE JULIO": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "ARGUELLO NORTE": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "SANTA RITA": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "NUEVA CORDOBA": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "CIUDAD DE MI ESPERANZA": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO VII",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA SOL": {
+    "comisaria": "COMISARIA DTTO. SALSIPUEDES",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PARQUE .SAN VICENTE": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "SAN VICENTE": {
+    "comisaria": "COMISARIA 32",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "SAN MARTIN": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "ALTA CORDOBA": {
+    "comisaria": "COMISARIA 9",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "LOS PARAISOS": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "SANTA FE": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA COREMA": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS VASCOS": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN CAYETANO": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "PARQUE RIO CEBALLOS": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "GRANADERO PRINGLES": {
+    "comisaria": "COMISARIA 9",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "GENERAL PAZ": {
+    "comisaria": "021 - CRIA DTTO MALV ARGENTINAS",
+    "distrito": "DISTRITO 2",
+    "zona": "INTERIOR"
+  },
+  "YAPEYU": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "PATRIA": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "PUEYRREDON": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "ALTO PUEYRREDON": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "ZONA RURAL ESTE CRIA 8": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "PATRICIO E": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "LOS CIGARRALES C": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LAS HIGUERAS": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "RECIDENCIAL AMERICA": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "SAN NICOLAS": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA AZALAIS": {
+    "comisaria": "COMISARIA 36",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "AVENIDA": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LOS GRANADOS": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "FERREYRA": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "OBSERVATORIO": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "CIUDAD AMPLIACION CABILDO": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "AMPLIACION SAN PABLO": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "BIALET MASSE": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "CRISOL NORTE": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "URCA": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "CARRARA DE HORIZONTE": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO III",
+    "zona": "ZONA OESTE"
+  },
+  "SAN PEDRO NOLASCO": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CONGRESO": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "RES. SAN ROQUE": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA RETIRO": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "MIRIZZI": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "PQUE. VELEZ SARSFIELD": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE LICEO 2 SECCION": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "AMP. SAN CARLOS": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "IPV CAMINO VILLA POSSE": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "VILLA BUSTO": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO V",
+    "zona": "ZONA SUR"
+  },
+  "COLONIA LOLA": {
+    "comisaria": "COMISARIA 32",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "PRIMERO DE MAYO": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "MARQUEZ ANEXO": {
+    "comisaria": "COMISARIA 9",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA PAEZ": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "SAN ALFONSO": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COUNTRY SAN ISIDRO": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN DANIEL": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LA CAMPANA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "RUMY HUASI": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PARQUE ATLANTICA": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE HORIZONTE": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "CINCO LOMAS": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "RINCON DE LA SELVA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA SIBURU": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "RESIDENCIAL CHATEAU CARRERAS": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "QUEBRADA DE LAS ROSAS": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "CHATEAU CARRERAS": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LOMAS SUR": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS PRADOS": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "RESIDENCIAL CENTRO": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LA CRUZ": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "CIUDAD DE MIS SUEÑOS  (EMERGENCIA)": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO V",
+    "zona": "ZONA SUR"
+  },
+  "MULLER": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "JOSE I.DIAZ 1RA": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "CORRAL DE PALOS": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "TALLERES SUD": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "JOSE IGNACIO DIAZ 3 SECCION": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "VILLA BELGRANO": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "EL REFUGIO (ARGUELLO)": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "VIVERO NORTE I.": {
+    "comisaria": "COMISARIA 36",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "IPV POLICIAL": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "VILLA CABRERA": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "LAS MARGARITAS": {
+    "comisaria": "COMISARIA 9",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "TEJAS DEL SUR": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "SAN FERNANDO": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "KENNEDY": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "POLICIAL ANEXO": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "ALTO VERDE": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "GRANJA DE FUNES": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA SERRANA": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA QUISQUIZACATE": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO XI",
+    "zona": "ZONA NORTE"
+  },
+  "LA FRANCE": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "POETA LUGONES": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "PARQUE SARMIENTO": {
+    "comisaria": "COMISARIA 1",
+    "distrito": "DISTRITO 1",
+    "zona": "ZONA CENTRO"
+  },
+  "GRANJA DE FUNES 2": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "CENTRO(SALSIPUEDES)": {
+    "comisaria": "COMISARIA DTTO. SALSIPUEDES",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SARGENTO CABRAL": {
+    "comisaria": "COMISARIA 9",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "SAN FRANCISCO": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "JUNIORS": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "YOFRE H": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "SANTA CLARA DE ASIS": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "GENERAL BELGRANO": {
+    "comisaria": "COMISARIA 36",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "RES. ARAGON": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "ARENALES": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "LA DOROTEA": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "ALTOS DE GENERAL PAZ": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "INDEPENDENCIA": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "COFICO": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "EL PUEBLITO": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "EL TREBOL": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA AZALAIZ OESTE": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO IX",
+    "zona": "ZONA ESTE"
+  },
+  "CORONEL OLMEDO": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "JOSE IGNACIO DIAZ 4 SECCION": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "LOS PLATANOS": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CACERES": {
+    "comisaria": "COMISARIA 3",
+    "distrito": "DISTRITO 1",
+    "zona": "ZONA CENTRO"
+  },
+  "CERVECEROS": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "MAIPU 2 SECCION": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "SANTA CECILIA": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "OBRERO": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "EL CHINGOLO 3": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "JARDIN DEL SUR": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "SANTA ISABEL 3 SECCION": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "AMEGHINO NORTE": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "AYACUCHO": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "ALEJANDRO CENTENO": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "PORTON DE PIEDRA": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS OLMOS": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA  LOS FILTROS  ( EMERGENCIA )": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE LOS MOLINOS": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "RESIDENCIAL VELEZ SARSFIELD": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LOS FILTROS": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "CALERA CENTRAL": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "CUESTA COLORADA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "RENE FAVALORO": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE SAN MARTIN": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO II",
+    "zona": "ZONA OESTE"
+  },
+  "TEODORO FELDS": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LAS FLORES": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA URQUIZA": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "ROBLES DE HORIZONTE (NUEVO)": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "ESPAÑOL": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "CONDOR BAJO": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS EUCALIPTOS": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "AEROPUERTO": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "RES. SANTA ROSA": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA LA MERCED (EMERGENCIA)": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "AMPLIACION PALMAR": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "JOSE IGNACIO DIAZ 2 SECCION": {
+    "comisaria": "COMISARIA 32",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "ARTIGAS": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "NUESTRO HOGAR 3  (EMERGENCIA)": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "EJERCITO ARGENTINO": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "CIUDAD OBISPO ANGELELLI PRIMERA ETAPA": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "16 DE NOVIEMBRE": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "FONAVI": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "ARGUELLO AUTODROMO": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO XI",
+    "zona": "ZONA NORTE"
+  },
+  "BAJO PALERMO": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "ROGELIO MARTINEZ": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA CORNU": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "DUCASSE": {
+    "comisaria": "COMISARIA 3",
+    "distrito": "DISTRITO 1",
+    "zona": "ZONA CENTRO"
+  },
+  "BAJO GALAN": {
+    "comisaria": "COMISARIA 3",
+    "distrito": "DISTRITO 1",
+    "zona": "ZONA CENTRO"
+  },
+  "YOFRE SUR": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "SAN JORGE": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "YOFRE NORTE": {
+    "comisaria": "COMISARIA 36",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "NUEVA ITALIA": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "BAJADA DE PIEDRA (PARQUE DEL ESTE)": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "COUNTRY \"VALLE CERCANO URBANIZACION\"": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CABILDO": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "RIVADAVIA": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LOS NOGALES": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "EL QUEMADERO": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "SAN RAFAEL": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PRIMERA JUNTA": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "JARDIN ESPINOSA": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "MAURIZZI": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE COREMA": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "CERRO CHICO": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "SAN PABLO": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COLON": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "AMPLIACION RESIDENCIAL AMERICA": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA CORMEC (EMERGENCIA)": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "LOS ALAMOS": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COLINAS DE VELEZ SARSFIELD": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "FERRER": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CARRARA": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "MAIPU": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "AMPLIACION VICOR": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "EL QUEBRACHO": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "CUPANI": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "MARIANO FRAGUEIRO": {
+    "comisaria": "COMISARIA 22",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "MARQUEZ DE SOBREMONTE": {
+    "comisaria": "COMISARIA 9",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "COOP. LA UNIDAD": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "AMPLIACION PRIMERO DE MAYO": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "LOMAS ESTE": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SALDAN INCHIN": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "TRANVIARIOS": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "PARQUE CAPITAL SUD": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA RIVERA INDARTE 9999": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS ROBLES": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "QUINTAS DE SANTA ANA": {
+    "comisaria": "COMISARIA 11",
+    "distrito": "DISTRITO 1",
+    "zona": "ZONA CENTRO"
+  },
+  "ITUZAINGO ANEXO": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "PARQUE SAN ANTONIO": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "BETANIA": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "LAS LILAS": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "SOL NACIENTE": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "UOCRA": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "ARGUELLO LOURDES": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "CERRO NORTE": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "CIUDAD OBISPO ANGELELLI SEGUNDA ETAPA": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "AMUCHASTEGUI": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "EL CARACOL": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PARQUE LUJAN": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ZUMARAN": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "GOBERNADOR PIZARRO": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PROGRESO": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "JARDIN DEL PILAR": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "GENERALSAVIO": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO VII",
+    "zona": "ZONA ESTE"
+  },
+  "MARCELO T. DE ALVEAR": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "JORGE NEWBERY": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "SARMIENTO": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "RECIDENCIAL OLIVOS": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO III",
+    "zona": "ZONA OESTE"
+  },
+  "VALLE DEL SOL": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COVICO": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "DON BOSCO": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "JUAN B. JUSTO": {
+    "comisaria": "COMISARIA 22",
+    "distrito": "DISTRITO IX",
+    "zona": "ZONA ESTE"
+  },
+  "PANAMERICANO": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA ASPACIA": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "MUTUAL DEL DOCENTE": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "ALTOS DE VELEZ SARSFIELD": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA ALLENDE GOLF": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "CIUDAD EVITA  (EMERGENCIA)": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "MARCOS SASTRE": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "JUAN PABLO II": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "ALTAMIRA AMPL.": {
+    "comisaria": "COMISARIA 32",
+    "distrito": "DISTRITO V",
+    "zona": "ZONA SUR"
+  },
+  "ZEPA A": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "LA HORTENSIA": {
+    "comisaria": "COMISARIA 36",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "HORTENSIA": {
+    "comisaria": "COMISARIA 1",
+    "distrito": "DISTRITO 1",
+    "zona": "ZONA CENTRO"
+  },
+  "SAN JAVIER": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "PROVIDENCIA": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA ARGENTINA": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "VILLA ESQUIU": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "MARIA CRISTINA": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "CANTEGRIL": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA EL BAJO PUEYRREDON ( VE )": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "LOZA": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA DIAZ": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "EL CONDOR (AMPLIACION POETA LUGONES)": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "URQUIZA": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "SAN FELIPE": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "HIPOLITO YRIGOYEN": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "ALTAMIRA": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "CIUDAD PARQUE DE LAS ROSAS": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO III",
+    "zona": "ZONA OESTE"
+  },
+  "AMPLIACION VELEZ SARSFIELD": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE LA VEGA 3": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LOMAS OESTE": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS CIGARRALES": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "MALDONADO": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "PASO DE LOS ANDES": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PALMAR": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "FERROVIARIO MITRE": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "IPONA": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA RIVADAVIA": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "2 DE SEPTIEMBRE (IPV ARGUELLO)": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "LOS QUIMICOS": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "PUEYRREDON AMPLIACION": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "PATRICIOS N": {
+    "comisaria": "COMISARIA 36",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "EL VERGEL": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "CIGARRALES B": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "TALLERES ESTE": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "LOS GIGANTES": {
+    "comisaria": "COMISARIA 22",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA MARTA": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "SEP. (MONO BLOCKS)": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COLINAS DE BELLA VISTA": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "SAN IGNACIO DE HORIZONTE": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "REMEDIO DE ESCALADA": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "PARQUE LICEO 3 SECCION": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "PARQUE SAN FRANCISCO": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LOS JACARANDAES": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "CAROLA LORENZINI": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "INDUSTRIAL": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "MIRALTA": {
+    "comisaria": "COMISARIA 32",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "LA HUERTILLA": {
+    "comisaria": "COMISARIA 30",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "ATE": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "IRUPE": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA LA TELA (VE)": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "RINCON BONITO": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN LORENZO SUR": {
+    "comisaria": "COMISARIA 43",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "CAMPO DE LA RIVERA": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA EUCARISTICA": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "POSTA DE VARGAS": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LA FLORESTA": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "COOP. LOS ANDES": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO VI",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY \"CLUB\"": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "CIUDAD UNIVERSITARIA- UNC": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "POLICIAL": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "ARCO 1": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "SAN MARTIN AXO.": {
+    "comisaria": "COMISARIA 9",
+    "distrito": "DISTRITO IX",
+    "zona": "ZONA ESTE"
+  },
+  "BARRIO DUCASSE": {
+    "comisaria": "COMISARIA 9",
+    "distrito": "DISTRITO IX",
+    "zona": "ZONA ESTE"
+  },
+  "MOREIRA": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "AMPLIACION URCA": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "JUAN XXIII": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "CARCANO": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "LICEO MILITAR GENERAL PAZ": {
+    "comisaria": "COMISARIA 22",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "ERNESTO GUEVARA": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "HOGAR CLASE MEDIA EL MARQUEZ (VE)": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "CABO FARINA": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY ALTOS DEL CHATEAU": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE LATINO": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE LA VEGA II": {
+    "comisaria": "021 - CRIA DTTO MALV ARGENTINAS",
+    "distrito": "DISTRITO 2",
+    "zona": "INTERIOR"
+  },
+  "AERONAUTICO": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA ALBERDI": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "CUMBRES DE VILLA ALLENDE": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ALEJANDRO CARBO": {
+    "comisaria": "COMISARIA 30",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "QUINTAS DE ARGUELLO": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "NUESTRO HOGAR 2  (EMERGENCIA)": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA ALICIA RISLER (EMERGENCIA)": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "ALTOS SUR DE SAN VICENTE": {
+    "comisaria": "COMISARIA 1",
+    "distrito": "DISTRITO I",
+    "zona": "ZONA CENTRO"
+  },
+  "WALKER (QUINTAS DE ARGUELLO)": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "CIUDAD SOL NACIENTE (EMERGENCIA)": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "ORO VERDE": {
+    "comisaria": "COMISARIA DTTO. SALSIPUEDES",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN MARTIN N": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO X",
+    "zona": "ZONA NORTE"
+  },
+  "QUINTAS DE SAN JORGE": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "ZONA DEL ABASTO": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "RESIDENCIAL": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "HERBERA": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS BOULEVARES ANEXO": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "HEROES DE MALVINAS": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "JARDIN DE HORIZONTE": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "JOSE HERNANDEZ": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "QUINTAS DE FLORES": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "CRISOL": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "EL CHINGOLO 1": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "LAS PALMAS ANEXO": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "AMPLIACION LOS PLATANOS": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "JOSE IGNACIO DIAZ 5 SECCION": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "LUIS DE TEJEDA": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA BUSTO ANEXO": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO V",
+    "zona": "ZONA SUR"
+  },
+  "PARQUE DEAN FUNES": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "ROSEDAL ANEXO": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "AMEGHINO SUR": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "SAN IGNACIO": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LSO CAROLINOS (LA CAROLINA)": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LOMAS DE LOS CAROLINOS": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "CHACRA ESCONDIDA": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO IV",
+    "zona": "ZONA SUR"
+  },
+  "AMPLIACION JARDIN ESPINOSA": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "ESCOBAR": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "CIUDAD DE LOS CUARTETOS (EMERGENCIA)": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "AUTODROMO": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "MONJA SIERRA": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "COOPERATIVA 28 DE NOVIEMBRE": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO XI",
+    "zona": "ZONA NORTE"
+  },
+  "MIRADOR": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "ALTO PALERMO": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY FORTIN DEL POZO": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA MAURIZI": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CHACRAS DEL NORTE II": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "MARIANO BALCARCE": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "MOLINO MINETTI": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "RENE FAVALORO II": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "AMPLI. LAS PALMAS": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "EL TROPEZON": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO II",
+    "zona": "ZONA OESTE"
+  },
+  "VALLE ESCONDIDO": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "RESIDENCIAL SANTA ROSA": {
+    "comisaria": "COMISARIA 30",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COOPERATIVA LOS PARAISOS": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "ALTOS DE SAN MARTN": {
+    "comisaria": "COMISARIA 9",
+    "distrito": "DISTRITO IX",
+    "zona": "ZONA ESTE"
+  },
+  "LOS PINOS": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA ÑU PORA": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS GIGANTES ANEXO": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "NUESTRO HOGAR 1  (EMERGENCIA)": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "23 DE ABRIL": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "PARQUE GUAYAQUIL": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA BOEDO": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "VILLA UNION": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "SAN ALFONSO VILLA PRIVADA": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN LORENZO S": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "VILLA GRAN PARQUE": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "CERRO DEL SOL": {
+    "comisaria": "COMISARIA DTTO. SALSIPUEDES",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS CEIBOS": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "BAJO GENERAL PAZ": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "PARQUE ATALAYA": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOURDES": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "EL CHINGOLO I": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "TABLADA PARK": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "LA OTRA BANDA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COUNTRY LA HERRADURA": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN CLEMENTE": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LA CUESTA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PAN DE AZUCAR": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LASALLE": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA COOPERATIVA EL PROGRESO": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "ARGUELLO H": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA REVOL ANEXO (B CHINO)": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "ARTURO CAPDEVILA": {
+    "comisaria": "COMISARIA 36",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "VIILA BARRANCA YACO ( VE )": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "PEREZ TABOADA": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LIBERTADOR GRAL SAN MARTIN": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "EL CEDRO": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LAS FLORES II": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE INDUSTRIAL FERREYRA": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY CHACRA NORTE": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "SAN MARCELO": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "CONSORCIO ESPERANZA": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "SACHI (EMERGENCIA)": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "UNIVERSIDAD CATOLICA CORDOBA": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "DR. COCCA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SMATA": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "SILVADO FUNES": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO X",
+    "zona": "ZONA NORTE"
+  },
+  "NUEVO POETA LUGONES": {
+    "comisaria": "COMISARIA 22",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "PARQUE CHACABUCO": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "4 DE JUNIO": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA JOSEFINA": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "RIO CEBALLOS NORTE": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "JARDIN CLARET": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA AMEGHINO": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA LAS PICHANAS": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "CONDOR ALTO": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOMAS DEL SUQUIA": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "JARDIN DE EPICURO": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "RECREO DEL NORTE": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA MARIA LASTENIA": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "ZEPA B": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "LOS SAUCES": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "CIUDAD DE LAS ARTES PREDIO": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "SAN MARTIN ANEXO": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA LOS GALPONES": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "AMPLIACION ONA": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO IV",
+    "zona": "ZONA SUR"
+  },
+  "VILLA ARPEBOCH (EMERGENCIA)": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "EL DIQUESITO": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "9 DE JULIO": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ALTOS DE LA CALERA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "20 DE JUNIO": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "SAN ALBERTO": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY MANANTIALES": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "EDIFICIOS ALTO VILLASOL": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "BENJAMIN CABRAL": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "RESIDENCIAL SAN ANTONIO": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY QUINTAS DE ITALIA": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO IV",
+    "zona": "ZONA SUR"
+  },
+  "MERCANTIL": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "COUNTRY LAS CAÑITAS": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA SAN CARLOS": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA SILVINA": {
+    "comisaria": "COMISARIA DTTO. SALSIPUEDES",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "YOFRE I": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "LOMAS DE SAN MARTIN": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "EL QUEBRACHAL": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "AGUA DEL PEÑON": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PARQUE TABLADA": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "AMPLIACION PANAMERICANO": {
+    "comisaria": "COMISARIA 22",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "AVELLANEDA": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "ALMIRANTE BROWN": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "VILLA MONJA SIERRA (EMERGENCIA)": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA EL NAILON (EMERGENCIA)": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "FRATERNIDAD": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO IX",
+    "zona": "ZONA ESTE"
+  },
+  "SAN MIGUEL": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN LUCAS": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "VICOR": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "NATANIA 19": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LOS FRESNOS": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "JARDIN HIPODROMO": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA OFELIA": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "AMPLIACION RENACIMIENTO": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "PARQUE MODELO": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "LAS TEJAS": {
+    "comisaria": "COMISARIA DTTO. SALSIPUEDES",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ARIEL": {
+    "comisaria": "COMISARIA DTTO. SALSIPUEDES",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SANTA TERESITA": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ISQUITIPI": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "GENERAL URQUIZA": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "EL CEIBO": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "EL CHORRITO": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COUNTRY TERRAZAS DE LA VILLA": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VIRGEN DE FATIMA": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "RESIDENCIAL SAN JOSE": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY JARDINES DE JOCKEY": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "AMPLIACION JARDIN HIPODROMO": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "1 DE JULIO": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "SAN CARLOS DE HORIZONTE": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA ACHAVAL": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "25 DE MAYO": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "LA CANDELARIA": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA LA SELVA": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "MARINO": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "OLMOS SUD": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "JARDIN ALBORADA": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "COLINAS DEL CERRO": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "RES. SANTA ANA": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "RESERVA NATURAL PARQUE SAN MARTIN": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "AATRA": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO III",
+    "zona": "ZONA OESTE"
+  },
+  "28 DE NOVIEMBRE (EMERGENCIA)": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "LAS MERCEDES": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS QUEBRACHITOS": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "OÑA": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA RENAULT (EMERGENCIA)": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "MINETTI": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COOP. 16 DE ABRIL": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO V",
+    "zona": "ZONA SUR"
+  },
+  "PQUE. LOS MOLINOS": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "ASENTAMIENTO 12 DE SEPTIEMBRE": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "IPV AMARILLO": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO XI",
+    "zona": "ZONA NORTE"
+  },
+  "PARQUE GUERRERO": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA 4 DE AGOSTO (EL PUEBLITO)(VE)": {
+    "comisaria": "COMISARIA 22",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "VALLE DEL SOL (CALERA)": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "AMPLIACION CABO FARINA": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "ALTOS DE VILLA CABRERA": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "CENIZAL": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VIPRO": {
+    "comisaria": "COMISARIA 32",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "SAN CARLOS 3": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LA CALERA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "2 DE ABRIL": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "RUCCI JOSE IGNACIO": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO VI",
+    "zona": "ZONA SUR"
+  },
+  "BAJADA SAN JOSE": {
+    "comisaria": "COMISARIA 32",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "SAN CARLOS": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LOS PRINCIPIOS": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "CERRO CHICO VILLAGE": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA LAS TABLITAS (EMERGENCIA)": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LOMAS DEL CHATEAU": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE MONTE CRISTO": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "POETA LUGONES RESIDENCIAL": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "EL MANZANO": {
+    "comisaria": "COMISARIA DTTO. SALSIPUEDES",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "EL TALITA": {
+    "comisaria": "COMISARIA DTTO. SALSIPUEDES",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PIETRI": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS ALAMOS ANEXO": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "LAS DALIAS": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE ITUZAINGO": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "ALTO ALEGRE": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "FILTROS OBRAS SANITARIAS": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "URBANIZACION NUEVA URCA": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA GENERAL BELGRANO": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "BARRIO UNQUILLO": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LA TABLADA": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO X",
+    "zona": "ZONA NORTE"
+  },
+  "ASENTAMIENTO REMEDIO DE ESCALADA (EMERGENCIA)": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "RESIDENCIAL OESTE": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LA RESERVA": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "EL BOSQUE": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA AURORA": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN LUIS DE FRANCIA": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "AMPLIACION LOS CERVECEROS": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO IV",
+    "zona": "ZONA SUR"
+  },
+  "LOMAS DE MANANTIALES": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "AMP. MULLER": {
+    "comisaria": "COMISARIA 32",
+    "distrito": "DISTRITO V",
+    "zona": "ZONA SUR"
+  },
+  "BAJO ALBERDI": {
+    "comisaria": "COMISARIA 3",
+    "distrito": "DISTRITO I",
+    "zona": "ZONA CENTRO"
+  },
+  "COUNTRY \"JOCKEY CLUB\"": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COOPERATIVA ATALAYA": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "RUCCI": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "SANTA CATALINA": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LA LOMA": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "MILITAR GENERAL DEHEZA": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "H. YRIGOYEN": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ZONA RURAL ESTE CRIA 17": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "URITORCO": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA BRIZUELA": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA LOS ALTOS": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SALVADOR TORTOZA": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS MANANTIALES": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA WARCALDE": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN REMO": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SOLARES DE SANTA MARIA I": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "AMPLIACION SAN FERNANDO": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY PALMAS DE CLARET": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO X",
+    "zona": "ZONA NORTE"
+  },
+  "AMPLIACION LOS ROBLES": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LA ESTANZUELA": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "QUINTAS LILI BENITEZ": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "LAS MAGDALENAS": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "BALCONES DEL CHATEAU": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "COOP. GUEMES": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "NUEVO RIO CEBALLOS": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LA AMISTAD": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "FORTIN DEL POZO": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "RAMON.J.CARCANO": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "EL CHINGOLO 2": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA CLARET": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "JOSE IGNACIO RUCCI": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "VILLA WARCALDE 9999": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "DON BOSCO DE HORIZONTE": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO II",
+    "zona": "ZONA OESTE"
+  },
+  "NUEVO ARGUELLO": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "SAN JOSE": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN RAMON": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "CABANA": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COLINAS LOS PINOS": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY CHACRAS DE LA VILLA": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "BRIGADIER SAN MARTIN": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "LUMIERE VILLE": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA JOISON": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "BELGRANO": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "URBANIZACION CLAROS DEL BOSQUE": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "FONABI": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "25 DE MAYO(CALERAS)": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ENSENADAS": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "JERONIMO LUIS DE CABRERA": {
+    "comisaria": "COMISARIA 22",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "FORCHIERI": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "CABAÑAS DEL PILAR": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "NUEVO JARDIN": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "ARCOS 1": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "CIGARRALES A": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOMAS DE MENDIOLAZA": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA LAS CAÑITAS": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY \"TEJAS II\"": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "MALVINAS ARGENTINAS": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO VII",
+    "zona": "ZONA ESTE"
+  },
+  "LICEO GRAL.PAZ": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "COOPERATIVA ARPEBOCH": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA ANGELELLI": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "RAMENVILLE": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA CATALINA": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SANTA ELENA": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LOS ALAMOS AMPLIACION": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "ESCUELA DE SUBOFICIALES DE LA FUERZA AREA": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "FERROVIARIO": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO VI",
+    "zona": "ZONA SUR"
+  },
+  "PILARES DE MANANTIALES": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE CHATEAU CARRERAS": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE ATLANTIDA": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "RAMADA SUD": {
+    "comisaria": "COMISARIA 22",
+    "distrito": "DISTRITO IX",
+    "zona": "ZONA ESTE"
+  },
+  "LAS CORZUELAS": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOMAS DEL SUPAY": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LA PROVIDENCIA": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LA CAROLINA": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "EL SAUCE": {
+    "comisaria": "COMISARIA DTTO. SALSIPUEDES",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ALEM": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO VIII",
+    "zona": "ZONA ESTE"
+  },
+  "LA LONJA": {
+    "comisaria": "COMISARIA 22",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "ESTANCIA Q2": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "MINETTI III": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "GUIÃ?AZU SUR": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "PARQUE SAN CARLOS": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "QUINTAS DEL MIRADOR": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "SALDAN": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COUNTRY JARDIN INGLES (VALLE ESCONDIDO)": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "RIVERA INDARTE BAJO": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "MUTUAL BODEGAS GIOL": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "LOS NOGALES (ARGUELLO)": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "PARQUE DE LAS TEJAS": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "RODRIGUEZ DEL BUSTOS": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "CORRAL DE BARRANCAS": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "AMP. LOS GIGANTES": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "COUNTRY \"CAMPO DE VUELO\"": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO II",
+    "zona": "ZONA OESTE"
+  },
+  "CUARTEL UNION": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "SAN LORENZO": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "PARQUE ITUZAINGÃ³": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO VI",
+    "zona": "ZONA SUR"
+  },
+  "LA SALLE": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO XI",
+    "zona": "ZONA NORTE"
+  },
+  "LUCINDA": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS CAROLINOS": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "GANDHI DE HORIZONTE": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA SOLFERINO": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "AMPLIACION KENNEDY": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "20 DE JUNIO (CHACO CHICO)": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA BAJO YAPEYU": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "QUINTAS DE ITALIA I, II Y III": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "BELA VISTA": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PLANTA FIAT-IVECO-MATERFER": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "AMPLIACION YAPEYU": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "POSTA DE VARGAS ANEXO": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "AMPLIACIÃN JARDIN ESPINOSA": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "QUINTAS DE LA RECTA": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "ALBORADA": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "PADRE CLARET AM": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO X",
+    "zona": "ZONA NORTE"
+  },
+  "ESTACION FERREYRA": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "LA TOMA": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "SABATO": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "MARCOS SASTRE AMPLIACION": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "SMATA II": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "SAN CARLOS 2": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "OLIVOS": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO XI",
+    "zona": "ZONA NORTE"
+  },
+  "RECREO DE NORTE": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "GOLF MENDIOLAZA": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PARQUE SERRANO": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COOPERATIVA 22 DE MAYO": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA LOS CUARENTA GUASOS (EMERGENCIA) 40": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "20 DE JUNIO ANEXO": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "COOPERATIVA FELIPE VARELA": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "DIVINA PROVIDENCIA": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "IPV ANGEL FERREYRA": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "PATRICIOS ESTE": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "COUNTRY FINCAS DEL SUR 1": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "CUATRO HOJAS": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA EL CHAPARRAL": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "APEADERO LA TABLADA": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "ROCIO DEL SUR": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA DE EMERGENCIA \"LA LONJA\"": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LOS OLIVOS": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "EL PERCHEL": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LOS GRANADEROS": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "COOP. FAMILIAS UNIDAS": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "PARQUE UNIVERSIDAD": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "NATANIA 21": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LA ESPERANZA": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA ALLENDE": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "FERIAR": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "RIVERAS DE VILLA BELGRANO": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "LA BANCARIA": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN ISIDRO": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA LOS ANGELES": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "SPILIMBERGO": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "MATIENZO AMPLIACION": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CIUDAD AMPLIACION FERREYRA": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "LOS TORRES": {
+    "comisaria": "COMISARIA DTTO. SALSIPUEDES",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LA MESADA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COUNTRY  \"MANANTIALES\"": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "BELGRANO (CALERA)": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PUEBLOS UNIDOS": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "PARQUE SAN VICENTE": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY SIETE SOLES": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "IPV ITUZAINGO": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY COSTA VERDE": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "QUINTA DE NORES": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY \"SOLARES DEL SUR\"": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "PORTAL DEL JACARANDA": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VALLE DEL CERRO": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "LAS FLORES III": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "SAN LUIS DE FRANCIA ANEXO": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "BLAS PASCAL": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "COUNTRY AYRES DEL SUR": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "QUEBRADA HONDA": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ALTOS DE MANANTIALES": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "ALTOS DE WARCALDE": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VIRGEN FATIMA": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO III",
+    "zona": "ZONA OESTE"
+  },
+  "PALMAS DE HORIZONTE II": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "28 DE NOVIEMBRE": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO XI",
+    "zona": "ZONA NORTE"
+  },
+  "COUNTRY \"GREEN VILLE\"": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "PRADOS DE LA VILLA": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "HIPERMERCADO LIBERTAD - RUTA 9": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "AMPLIACION INAUDI": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COOPERATIVA HORIZONTE SUR": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "SAN RAFAEL B": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO II",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY FINCAS DEL SUR 2": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LOS CERVECEROS": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA POSSE": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "LA RUFINA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COOPERATIVA 26 DE JUNIO": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "URBANIZACION GANDHI": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "CRUZ DEL NORTE II": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LIBERTAD III": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO IV",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY \"QUINTAS DEL SUR / JIREH DORF\"": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LIBERTAD 3": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "MIRADORES DEL CHATEAU": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VELEZ SARFIELD": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "MENDIOLAZA GOLF": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PARQUE DON BOSCO": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA KILOMETRO 8 (EMERGENCIA)": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA CLAUDINA": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA RIVADAVIA ANEXO 1": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA TERRAPLEN (EMERGENCIA)": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "COUNTRY EL BOSQUE": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "ESTADIO MARIO ALBERTO KEMPES": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA ARGUELLO": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "CAIRO": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO III",
+    "zona": "ZONA OESTE"
+  },
+  "PQUE. SAN ANTONIO": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "KAIROS": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PINARES DEL CLARET": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "LA ISLA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ORATORIO SANTA BÃ¡RBARA": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO VI",
+    "zona": "ZONA SUR"
+  },
+  "SAN ANTONIO": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO IV",
+    "zona": "ZONA SUR"
+  },
+  "VILLA LA PIGUE (VE)": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "CARCANO DE HORIZONTE": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY LA CATALINA": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA BAJO CHICO ( VE )": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "MATADEROS": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLASOL": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "GRANJA DE HORIZONTE 2": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "SANTA ISABEL ANEXO": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "QUINTA SAN ANTONIO": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA EL CIELITO (EMERGENCIA)": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO III",
+    "zona": "ZONA OESTE"
+  },
+  "LA AMALIA": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PRADO DE MANATIALES": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "ANEXO PUEYRREDON": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "LOS MIMBRES": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO IV",
+    "zona": "ZONA SUR"
+  },
+  "SEPA -A-": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA SAN ISIDRO": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "1 DE MAYO (BARRIO GILBERT)": {
+    "comisaria": "COMISARIA 5",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "VILLA LA VAQUITA ECHADA": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "NORTE": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA ABALOS": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA EL MILAGRO CRIA 33 ( VE )": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COLINA LOS PINOS": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LICEO GENERAL PAZ": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA ALBERTO": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "EMAUS": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO VI",
+    "zona": "ZONA SUR"
+  },
+  "NUEVO LAS PALMAS": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY SANTINA NORTE": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "MALVINAS ARGENTINAS 2 SECCION": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "DON JUSTO": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "FLORES": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "CASONA DE LOS ARCOS": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO XI",
+    "zona": "ZONA NORTE"
+  },
+  "M.T. DE ALVEAR": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "LA PANKANA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COUNTRY LOS CIELOS": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA LA TRIBU": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA PARAISO": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "INAUDI ANEXO": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA LAS CHUNCHULAS (EMERGENCIA)": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "COROSSIO VAIROLATTI": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "PRADOS DE LA CATOLICA": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "EL RINCON": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "VILA LAS CORTADERAS": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "LAS DELICIAS": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LOS PRADOS II": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PARQUE DE LA VIDA": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LIBERTAD 2": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO IV",
+    "zona": "ZONA SUR"
+  },
+  "IPEF": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "YOFRE IPV 115": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "COUNTRY BARRANCAS": {
+    "comisaria": "COMISARIA 15",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA DEL SOL": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY \"LOS MIMBRES\"": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO IV",
+    "zona": "ZONA SUR"
+  },
+  "REVOL ANEXO": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO IV",
+    "zona": "ZONA SUR"
+  },
+  "JARDIN DEL OLMO": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CASA BAMBA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ESTANCIA LA LUCILA": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO IV",
+    "zona": "ZONA SUR"
+  },
+  "EL CENIZAL": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LA MORADA": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "TEJAS 2": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "ALTO HERMOSO": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COUNTRY \"QUINTAS DE ITALIA I,II,III\"": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LA CUESTA RESIDENCIAL": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COUNTRY LOS MIMBRES": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "SAN IGNACIO VILLAGE": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY \"LA CATALINA\"": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO XI",
+    "zona": "ZONA NORTE"
+  },
+  "COOPERATIVA PEDACITO DE CIELO": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "PINARES DE CLARET": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "AMPLIACION SANTA ROSA": {
+    "comisaria": "COMISARIA 30",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "SIERRA NUEVA": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "CIUDAD MI ESPERANZA (EMERGENCIA)": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "COUNTRY \"SAN ALFONSO\"": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "MALVINAS ARGENTINAS 1Âº SECCION": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO VII",
+    "zona": "ZONA ESTE"
+  },
+  "COMPLEJO DE DEPARTAMENTOS \"CHATEAU VILLAGE\"": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "COOPERATIVA GUEMES": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "SPILIMBERGO NORTE": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "JARDINES DE LA ESTANZUELA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "EMPLEADOS LUZ Y FUERZA": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY EL ALGARROBO": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PILAR": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "BARRIO UNQUILLO PRUEBA": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "MOLINOS DE VIENTO": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "PRADOS DEL SUR": {
+    "comisaria": "COMISARIA 30",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "ESTACIÃ³N FERREYRA": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO VI",
+    "zona": "ZONA SUR"
+  },
+  "AERODROMO CORONEL OLMEDO": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "16 DE ABRIL": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO V",
+    "zona": "ZONA SUR"
+  },
+  "HOGAR CLASE MEDIA CABILDO": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CAPITAL": {
+    "comisaria": "COMISARIA 10",
+    "distrito": "DISTRITO III",
+    "zona": "ZONA OESTE"
+  },
+  "BOULEVARES DE HORIZONTE": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "COUNTRY  \" LA CASCADA\"": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY LA PALOMA": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA EL GRAN CHAPARRAL (VE)": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "CEMENTERIO SAN VICENTE": {
+    "comisaria": "COMISARIA 32",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "TEJAS III": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LOS NOGALES SUR": {
+    "comisaria": "COMISARIA DTTO. RIO CEBALLOS",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COUNTRY QUINTAS DEL SUR": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO III",
+    "zona": "ZONA OESTE"
+  },
+  "ASENTAMIENTO EL MILAGRO CRIA 42": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LOS TALITAS": {
+    "comisaria": "COMISARIA DTTO. UNQUILLO",
+    "distrito": "DISTRITO XIII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "SAN ALFONSO I": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "ALTOS DEL CERRO": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO XI",
+    "zona": "ZONA NORTE"
+  },
+  "SAN ALFONSO DEL TALAR": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA ALLENDE PARK": {
+    "comisaria": "COMISARIA 26",
+    "distrito": "DISTRITO XII",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COUNTRY CAMPIÑA DEL SUR": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "ZONA FABRIL": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "PARQUE DEL KEMPES": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PUEYRREDON ESTE": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "SANTA BARBARA": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY  \"VIEJO ALGARROBO\"": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "ALTOS DE DON BOSCO": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE URITORCO": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO II",
+    "zona": "ZONA OESTE"
+  },
+  "NUEVA ESPERANZA": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "COUNTRY LOS ARBOLES (VALLE ESCONDIDO)": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "LAS FLORES V": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "SAN PEDRO NOLAS": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO II",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE DE LAS ROSAS": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "URBANIZACION VILLA RETIRO": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "QUINTAS DE FERREYRA": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "ALTO SANTA ANA": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO II",
+    "zona": "ZONA OESTE"
+  },
+  "EASY": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "12 DE JULIO": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "GRANJA CLARET": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "QUINTAS LILI BENITEZ II": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "RISLER": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO VIII",
+    "zona": "ZONA ESTE"
+  },
+  "COUNTRY QUINTA LAS FLORES": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO III",
+    "zona": "ZONA OESTE"
+  },
+  "TERRAZAS DE LA ESTANZELA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LAS PLAYAS": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO VII",
+    "zona": "ZONA ESTE"
+  },
+  "LAS QUINTAS DE SEGUNDO": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "JARDINES DE VILLA BELGRANO": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "AMPLIACION EMPALME": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "RESIDENCIAL OLIVOS": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA \"EL TROPEZON\"": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PROCREAR LICEO": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA BUSTOS": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "JOSE IGNACIO DIAZ 1 SECCIN": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "VILLA COOPERATIVA LOS ANDES": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "VILLA LOS ARTESANOS (CORMEC) [EMERGENCIA]": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "SILVANO FUNES": {
+    "comisaria": "COMISARIA 39",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA QUISQUISACATE": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "GENERAL BUSTOS": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "O?A": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "CARRARA DE HORIZONTE NORTE": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "JARDIN  EL TREBOL": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "ZONA PERTENECIENTE A DIPAS": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "GUI??AZU SUR": {
+    "comisaria": "COMISARIA 38",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "ESTACI?N FERREYRA": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "VILLA AZALAIS OESTE": {
+    "comisaria": "COMISARIA 22",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "GENERAL SAVIO": {
+    "comisaria": "COMISARIA 37",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "ALTOS DE SAN MARTIN": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "CIUDAD DE MIS SUE?OS  (EMERGENCIA)": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "PARQUE ITUZAING?": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "EL DORADO": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "MIRADORES DE MANANTIALES": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "GUINAZU": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "BORRAR - 17": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "CIUDAD PARQUE LAS ROSAS": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA EL PIOLIN (EMERGENCIA)": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY CA?UELAS": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "ECOTIERRA": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY QUINTAS DE ITALIA I,II,III": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COMPLEJO MILENICA V": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "SAN MARTIN NORTE": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "JUAN B JUSTO (FRAGUEIRO ANEXO)": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "RAMAL SUR": {
+    "comisaria": "COMISARIA 22",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "ALTOS SUD SAN VICENTE": {
+    "comisaria": "COMISARIA 1",
+    "distrito": "DISTRITO 1",
+    "zona": "ZONA CENTRO"
+  },
+  "JARDINES DEL VALLE": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "CIUDAD MI ESPERANZA": {
+    "comisaria": "COMISARIA 44",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "CABA?AS DEL PILAR": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "JARDIN JAPONES": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY CAMPI?A DEL SUR": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY LAS CA?ITAS": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "20 DE JULIO": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "COOPERATIVA SAN JOSE": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "CHACRA DE LA MERCED": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "AMPLIACION LA DOROTEA": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "JOFRE SUR": {
+    "comisaria": "COMISARIA 6",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "AMPLIACI?N JARDIN ESPINOSA": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "TERRANOVA 1": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA BUSTOS ANEXO": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "AMPLIACION  LOS ROBLES": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "UNIVERSITARIO DE HORIZONTE": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "EL CHINGOLO ANEXO": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "COOPERATIVA EL HORNERO": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "COSTAS DE MANANTIALES": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LA FRATERNIDAD": {
+    "comisaria": "COMISARIA 7",
+    "distrito": "DISTRITO 9",
+    "zona": "ZONA ESTE"
+  },
+  "CAPITAL SUR": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LA AGUSTINA": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "CHINO": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "SOLES DEL OESTE": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LOS SUENIOS (VALLE ESCONDIDO)": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA AZALAIS ANEXO": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "COMARCAS DE ALLENDE": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA CLAUDINA (EMERGENCIA)": {
+    "comisaria": "COMISARIA 35",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "EL BALCON": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "AMPLIACION GENERAL SAVIO": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "PARQUE 9 DE JULIO": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA PARQUE SANTA ANA": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COOPERATIVA HORIZONTE (NEWBERY)": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "LA CASCADA": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "JACARANDAES": {
+    "comisaria": "COMISARIA 19",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "OFICIALES (B GRAL DEHEZA)": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "FLORES I,II,III,IV,V Y VI": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY \"EL ARADO\"": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LAS TORRES DE LA QUEBRADA": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA ESTRADA": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "LIBERTADOR III": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA EL TREBOL (EMERGENCIA)": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY LA SANTINA": {
+    "comisaria": "COMISARIA 31",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "SOLARES DE MANATIALES": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "NATANIA 22": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "BOULEVARES DE HORIZONTE II": {
+    "comisaria": "COMISARIA 14",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "BARRIO NORTE - GAMA": {
+    "comisaria": "COMISARIA 46",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "VILLA OBRA SANITARIA": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "LOTENGO": {
+    "comisaria": "COMISARIA 47",
+    "distrito": "DISTRITO 11",
+    "zona": "ZONA NORTE"
+  },
+  "COUNTRY RESID.": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "GRANJA NUESTRAS RAICES": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY LA RESERVA": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "QUEBRADA DE MANANTIALES": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "IPV": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY RIBERAS DE MANANTIALES": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY BARRANCAS DEL SUR": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "SILOE": {
+    "comisaria": "COMISARIA 8",
+    "distrito": "DISTRITO 7",
+    "zona": "ZONA ESTE"
+  },
+  "UNO MAS UNO": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "VILLA SANTA MONICA": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "EDISUR NUEVO MANATIALES": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COOPERATIVA 16 DE ABRIL": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "COOPERATIVA PUERTAS DEL SOL": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "OMBU": {
+    "comisaria": "COMISARIA 40",
+    "distrito": "DISTRITO 10",
+    "zona": "ZONA NORTE"
+  },
+  "EL HORNERO": {
+    "comisaria": "COMISARIA 17",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "COUNTRY CAMPO DE VUELO": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "PARQUE LA VEGA III": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "EMANUEL I": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "COOPERATIVA 20 DE JULIO": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "ESPANOL": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "CUMBRES DEL GOLF": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LAS LOMITAS": {
+    "comisaria": "COMISARIA 23",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "EL DIQUECTO": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "VILLA EL DIQUECITO": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "EL CALICANTO": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LA ARBOLEDA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "LA DESEADA": {
+    "comisaria": "COMISARIA 24",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "COOPERATIVA 2 DE MAYO": {
+    "comisaria": "COMISARIA 25",
+    "distrito": "DISTRITO 12",
+    "zona": "SIERRAS CHICAS"
+  },
+  "NUESTRO HOGAR 3 (EMERGENCIA)": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "NUESTRO HOGAR 2 (EMERGENCIA)": {
+    "comisaria": "COMISARIA 42",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "VILLA GENERAL SAVIO (VE)": {
+    "comisaria": "COMISARIA 13",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "HOGAR CLASE MEDIA B LOS LLAMOS": {
+    "comisaria": "COMISARIA 37",
+    "distrito": "DISTRITO 8",
+    "zona": "ZONA ESTE"
+  },
+  "RUTA 20": {
+    "comisaria": "COMISARIA 2",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "VILLA LOS FILTROS ( EMERGENCIA )": {
+    "comisaria": "COMISARIA 29",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "CLUB COMUNICACIONES": {
+    "comisaria": "COMISARIA 28",
+    "distrito": "DISTRITO 2",
+    "zona": "ZONA OESTE"
+  },
+  "COMUNIDAD MARTA JUANA GONZALEZ (EMERGENCIA)": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CARRARA DE HORIZONTE SUR": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COLINAS DE MANANTIALES": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "BOWER": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "LA DOCTA": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY \"SOLES DEL OESTE\"": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CASONA DE MANANTIALES": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY \"MANANTIALES\"": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PLAN MIO (EDISUR)": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PLAN MIO EDISUR": {
+    "comisaria": "COMISARIA 20",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "JARDIN EL TREBOL": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY \"CASONAS DEL SUR\"": {
+    "comisaria": "COMISARIA 4",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY CAÃ?UELAS": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "NUESTRO HOGAR 1 (EMERGENCIA)": {
+    "comisaria": "COMISARIA 16",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY \"VIEJO ALGARROBO\"": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "COMPLEJO DOCENTE": {
+    "comisaria": "COMISARIA 12",
+    "distrito": "DISTRITO 4",
+    "zona": "ZONA SUR"
+  },
+  "CIUDAD EVITA (EMERGENCIA)": {
+    "comisaria": "COMISARIA 43",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "VILLA CAPULLO DE ESPERANZA": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "COOP LA HERMOSA": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "EMANUEL II": {
+    "comisaria": "COMISARIA 21",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "VILLA CAMPO LA RIBERA": {
+    "comisaria": "COMISARIA 32",
+    "distrito": "DISTRITO 5",
+    "zona": "ZONA SUR"
+  },
+  "VILLA LA INESITA ( VE )": {
+    "comisaria": "COMISARIA 33",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "CIUDAD DE MIS SUEÑOS (EMERGENCIA)": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "COOPERATIVA SUQUIA": {
+    "comisaria": "COMISARIA 34",
+    "distrito": "DISTRITO 6",
+    "zona": "ZONA SUR"
+  },
+  "COUNTRY VALLE CERCANO URBANIZACION": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COUNTRY \"URCA SUR\"": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "TERRAZAS DE MANANTIALES": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "CAMPOS DE MANANTIALES": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "RINCONES DE MANANTIALES": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COOPERATIVA LOS MANANTIALES": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "DOCTA URBANIZACION INTELIGENTE": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "PRADO DE LA LAGUNILLA": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "COOPERATIVA PILCOMAYO": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  },
+  "TERRAZAS DE MANATIALES": {
+    "comisaria": "COMISARIA 18",
+    "distrito": "DISTRITO 3",
+    "zona": "ZONA OESTE"
+  }
+
+}
